@@ -43,6 +43,22 @@ Ahora veamos la distribución de la hoja de **HECHOS** en relación al medio de 
   <img src="src/motos.png" alt="motos"  width="50%"/>
 </p>
 
-# <h2 align=left> **QUE INTERESANTE!**</h2>
+## **QUE INTERESANTE!**
 
 Observamos que la mayor cantidad de víctimas son aquellas que se transportaban mediante **MOTOCICLETA**
+
+Ahora que hemos observado la hoja de HECHOS, veamos que podemos observar en la hoja de **VICTIMAS**
+
+A modo de recordatorio observaremos la información relevante de las columnas de la hoja VICTIMAS de la siguiente manera:
+```
+VICTIMAS[VICTIMAS["COLUMNA A OBSERVAR"]]
+```
+### **QUE ROL OCUPABAN LAS PERSONAS QUE PERECIERON EN LOS ACCIDENTES?**
+
+Veamos la distribución:
+
+<p align="center">
+  <img src="src/rol2.png" alt="rol"  width="50%"/>
+</p>
+
+ ### **NO SOLO LAS PERSONAS QUE MANEJABAN ALGUN VEHICULOS SON LAS VICTIMAS, OBSERVAMOS QUE MUCHOS DE LOS PEATONES TAMBIÉN FUERON AFECTADOS!**
