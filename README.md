@@ -99,11 +99,11 @@ Pero...
 
 ### Tasa de Homicidios semestral
 
-* Se realizaron medidas calculadas semestrales en cada año para poder comparar el avance entre el segundo semestre VS el primero, con le objetivo de observar el aumento/disminución del mismo
+* Se realizaron medidas calculadas semestrales en cada año para poder comparar el avance entre el segundo semestre VS el primero, con el objetivo de observar el aumento/disminución del mismo
 
 ### Tasa de accidentes mortales en motocicletas
 
-* Se realizó una medida calculada de manera anual únicamente tomando en cuenta los accidentes de la hoja de VICTIMAS donde la categoría VICTIMA es MOTO, comparando dichas medidas entre 2 años consecutivos (Año presente vs Año anterior) con el objetivo de medir la tasa de crecimiento/descendo del mismo.
+* Se realizó una medida calculada de manera anual únicamente tomando en cuenta los accidentes de la hoja de VICTIMAS donde la categoría VICTIMA es MOTO, comparando dichas medidas entre 2 años consecutivos (Año presente vs Año anterior) con el objetivo de medir la tasa de crecimiento/descenso del mismo.
 
 ### Tasa de accidentes en la COMUNA 1
 
@@ -116,6 +116,7 @@ Pudimos observar que existen muchísimos puntos a mejorar en cuanto a seguridad 
 
 Se observó también que en la COMUNA 1 hay una disminución progresiva de la cantidad de accidentes, pero... Que tal si mejorarmos la señaletica e incluso nos apoyamos en los agentes policiales para poder reducir más del 17% que es el promedio en el cual va disminuyendo los accidentes.
 
+Algo interesante a sugerir es mejorar la educación vial del peatón pues pudimos observar también, que es la segunda etiqueta con mayor mortandad en todos los años.
 
 # <h1 align=center> **Entregables**</h1>
 
