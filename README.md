@@ -17,3 +17,9 @@
 </div>
 
 # <h1 align=center> **Intro** </h1>
+
+Se obtiene información de los años 2016-2021 sobre los *homicidi#s* en la Ciudad de Buenos Aires(CABA), donde se detalla toda la información referente a esos sucesos, tales como ROL, el cual indica que papel desempeñaba la victima, asi también datos como la fecha y hora exacta, cantidad de victimas e incluso ubicación geográfica de los sucesos.
+
+El presente trabajo tiene como finalidad mostrar de manera objetiva los **insights** obtenidos de los datos, apuntando a brindar sugerencias para evitar más trágicos desenlaces en la población de CABA. No es objetivo de este trabajo herir susceptibilidades.
+
+# <h1 align=center> **Análisis de los datos**</h1>
